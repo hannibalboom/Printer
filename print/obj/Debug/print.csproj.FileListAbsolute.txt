@@ -1,0 +1,11 @@
+D:\桌面\print\bin\Debug\print.exe.config
+D:\桌面\print\bin\Debug\print.exe
+D:\桌面\print\bin\Debug\print.pdb
+D:\桌面\print\obj\Debug\print.Form1.resources
+D:\桌面\print\obj\Debug\print.print_frm.resources
+D:\桌面\print\obj\Debug\print.Properties.Resources.resources
+D:\桌面\print\obj\Debug\print.csproj.GenerateResource.cache
+D:\桌面\print\obj\Debug\print.csproj.CoreCompileInputs.cache
+D:\桌面\print\obj\Debug\print.exe
+D:\桌面\print\obj\Debug\print.pdb
+D:\桌面\print\obj\Debug\print.csproj.AssemblyReference.cache

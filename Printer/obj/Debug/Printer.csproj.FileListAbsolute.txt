@@ -1,0 +1,11 @@
+D:\woaixuexi\Print\Printer\bin\Debug\Printer.exe.config
+D:\woaixuexi\Print\Printer\bin\Debug\Printer.exe
+D:\woaixuexi\Print\Printer\bin\Debug\Printer.pdb
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.csprojAssemblyReference.cache
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.Form1.resources
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.print_frm.resources
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.Properties.Resources.resources
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.csproj.GenerateResource.cache
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.exe
+D:\woaixuexi\Print\Printer\obj\Debug\Printer.pdb
